@@ -1,0 +1,44 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body{
+    background-size:cover;
+    background-position:center;
+}
+
+
+.header{
+    color:chartreuse ;
+    background-color: red;
+    width: 15%;
+    height: 7%;
+    font-size: 20px;
+    font-weight: 600;
+    box-shadow: 2px 2px 20px yellowgreen;
+}
+
+#status , #num_of_objects{
+    color: brown;
+    font-size: 18px;
+    border: 1px green ridge;
+    width: 20%;
+    background-color: lightgreen;
+    height: 5%;
+    text-align: center;
+}
+
+canvas{
+    box-shadow: 4px 4px 35px blue;
+    background-color: red;
+    margin-top: 100px;
+}
